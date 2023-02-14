@@ -58,6 +58,12 @@ body{
 
 .carousel-caption{
     text-align: left;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 50px 40px 20px 40px;
+    background: linear-gradient(rgba(0, 0, 0, 0.01),rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.05));
 }
 
 .carousel-caption h4{
